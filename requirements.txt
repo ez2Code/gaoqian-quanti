@@ -1,0 +1,3 @@
+baostock
+mysql-connector
+flask
